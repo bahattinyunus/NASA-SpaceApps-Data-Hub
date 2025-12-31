@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+geopandas
+rasterio
+opencv-python
+xarray
+folium
+plotly
+pyvista
+python-dotenv
